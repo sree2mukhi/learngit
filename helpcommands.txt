@@ -6,3 +6,4 @@
 5>  to make sure that certain files are not added into the repository => create a .gitignore file and add the names of all the files which must be ignored while staging.
 6>  to add new branch => git branch <branch name>
 7> to move from current branch to new branch git checkout <banch name>
+8> to merge changes to the master branch => git merge <branch name>
