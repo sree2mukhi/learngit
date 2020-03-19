@@ -1,0 +1,7 @@
+1> to create a new file or folder => touch <file name>.<extension>
+2> to add the files to staging area => git add . (this is for all files & folders)
+                                    => git add <file name>.<extension> (for specific file or folder)
+3> to commit the changes to the local repository => git commit -m 'comment' ('' contains any sort of comment for future ref)
+4> to check the staging area => git status
+5>  to make sure that certain files are not added into the repository => create a .gitignore file and add the names of all the files which must be ignored while staging.
+6> 
